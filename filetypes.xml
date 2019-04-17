@@ -5,6 +5,7 @@
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
       <mapping pattern="Dockerfile" type="PLAIN_TEXT" />
       <mapping pattern=".flaskenv" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="timefinder" type="Python" />
       <removed_mapping pattern="Dockerfile" approved="true" type="Dockerfile" />
     </extensionMap>
